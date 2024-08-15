@@ -1,2 +1,3 @@
-Source,Feeds_URL
-Bleeping Computer,https://www.bleepingcomputer.com/feed/
+Source,Feeds_URL,type
+Bleeping Computer,https://www.bleepingcomputer.com/feed/,http
+Google-TAG,https://blog.google/threat-analysis-group/rss/,API
