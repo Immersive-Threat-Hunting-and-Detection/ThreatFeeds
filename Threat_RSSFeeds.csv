@@ -1,67 +1,66 @@
-Source,Feeds_URL,
-MicrosoftSecurity,https://www.microsoft.com/en-us/security/blog/feed/,
-DefenderExperts,https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=MicrosoftSecurityExperts&size=25&label=Defender%20Experts%20for%20XDR,
-MSRC,https://msrc.microsoft.com/blog/feed,
-Qualys,https://blog.qualys.com/feed,
-Fortinet,https://feeds.fortinet.com/fortinet/blog/threat-research,
-Sophos,https://news.sophos.com/feed/,
-Cybersecuritynews,https://cybersecuritynews.com/feed/,
-Arstechnica,http://feeds.arstechnica.com/arstechnica/index,
-Buttondown,https://buttondown.email/CybersecNewsWeekly/rss,
-Cisa Gov,https://www.cisa.gov/cybersecurity-advisories/all.xml,
-Cybereason,https://www.cybereason.com/blog/rss.xml,
-Sentinelone,https://www.sentinelone.com/feed/,
-Talosintelligence,https://blog.talosintelligence.com/rss/,
-DFIR_Report,https://thedfirreport.com/feed/,
-Bushidotoken,https://blog.bushidotoken.net/feeds/posts/default,
-Mandiant,https://www.mandiant.com/resources/blog/rss.xml,
-Paloaltonetworks,https://unit42.paloaltonetworks.com/feed/,
-Crowdstrike,https://www.crowdstrike.com/blog/feed,
-Socradar,https://socradar.io/feed/,
-Threatpost,https://threatpost.com/feed/,
-Cisecurity,https://www.cisecurity.org/feed/advisories,
-Checkpoint,https://research.checkpoint.com/feed/,
-Shorsec,https://shorsec.io/feed/,
-TheHackerNews,https://feeds.feedburner.com/TheHackersNews,
-Malwarebytes,https://www.malwarebytes.com/blog/feed/index.xml,
-BlackLantern,https://blog.blacklanternsecurity.com/feed,
-Netscaler,https://www.netscaler.com/blog/feed/,
-Google-TAG,https://blog.google/threat-analysis-group/rss/,
-Google-ThreatIntel,https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/,
-KrebsonSecurity,https://krebsonsecurity.com/feed/,
-GrahamCluley,https://grahamcluley.com/feed/,
-SchneierOnSecurity,https://www.schneier.com/feed/atom/,
-CybleBlog,https://cyble.com/feed/,
-MalwareNews,https://malware.news/latest.rss,
-Packet Storm,https://rss.packetstormsecurity.com/,
-Phylum,https://blog.phylum.io/rss/,
-Rapid7 Blog,https://blog.rapid7.com/rss/,
-RedHat Security,https://www.redhat.com/en/rss/blog/channel/security,
-Sonatype Blog,https://www.sonatype.com/blog/rss.xml,
-Sucuri Blog,https://blog.sucuri.net/feed,
-Synack,https://www.synack.com/feed/,
-Tenable Research ,https://www.tenable.com/security/research/feed,
-Zero Day Initiative - Blog ,https://www.zerodayinitiative.com/blog?format=rss,
-VentureBeat ,https://venturebeat.com/category/security/feed/,
-Scott Helme,https://scotthelme.co.uk/rss/,
-SC Magazine,https://www.scmagazine.com/feed/topic/threat-management,
-SANS,https://www.sans.org/blog/feed.xml,
-Oracle Linux,https://linuxsecurity.com/advisories/oracle?format=feed&amp;type=rss,
-Debian Linux,https://linuxsecurity.com/advisories/debian?format=feed&amp;type=rss,
-Ubuntu Linux,https://linuxsecurity.com/advisories/ubuntu?format=feed&amp;type=rss,
-RedHat Linux,https://linuxsecurity.com/advisories/red-hat?format=feed&amp;type=rss,
-AWS Security,https://aws.amazon.com/security/security-bulletins/rss/feed/,
-HealthITSecurity,https://healthitsecurity.com/feed,
-HackRead,https://hackread.com/feed/,
-GovInfoSecurity.com,https://www.govinfosecurity.com/rss-feeds,
-F5 Labs,https://www.f5.com/labs/rss-feeds/all.xml,
-ExploitDB,https://www.exploit-db.com/rss.xml,
-Embrace The Red ,https://embracethered.com/blog/index.xml,
-Reliaquest,https://www.reliaquest.com/blog/feed/,
-Darknetlive,https://darknetlive.com/index.xml,
-Daniel Haxx,https://daniel.haxx.se/blog/feed/,
-Cybersecuritydive,https://www.cybersecuritydive.com/feeds/news/,
-Tenable cyber,https://www.tenable.com/blog/cyber-exposure-alerts/feed,
-Avast Threat Lab,https://decoded.avast.io/feed/,
-Almost Secure,https://palant.info/rss.xml,
-Bleeping Computer,https://www.bleepingcomputer.com/feed/,
+Source,Feeds_URL
+MicrosoftSecurity,https://www.microsoft.com/en-us/security/blog/feed/
+DefenderExperts,https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=MicrosoftSecurityExperts&size=25&label=Defender%20Experts%20for%20XDR
+MSRC,https://msrc.microsoft.com/blog/feed
+Qualys,https://blog.qualys.com/feed
+Fortinet,https://feeds.fortinet.com/fortinet/blog/threat-research
+Sophos,https://news.sophos.com/feed/
+Cybersecuritynews,https://cybersecuritynews.com/feed/
+Arstechnica,http://feeds.arstechnica.com/arstechnica/index
+Buttondown,https://buttondown.email/CybersecNewsWeekly/rss
+Cisa Gov,https://www.cisa.gov/cybersecurity-advisories/all.xml
+Cybereason,https://www.cybereason.com/blog/rss.xml
+Sentinelone,https://www.sentinelone.com/feed/
+Talosintelligence,https://blog.talosintelligence.com/rss/
+DFIR_Report,https://thedfirreport.com/feed/
+Bushidotoken,https://blog.bushidotoken.net/feeds/posts/default
+Mandiant,https://www.mandiant.com/resources/blog/rss.xml
+Paloaltonetworks,https://unit42.paloaltonetworks.com/feed/
+Crowdstrike,https://www.crowdstrike.com/blog/feed
+Socradar,https://socradar.io/feed/
+Threatpost,https://threatpost.com/feed/
+Cisecurity,https://www.cisecurity.org/feed/advisories
+Checkpoint,https://research.checkpoint.com/feed/
+Shorsec,https://shorsec.io/feed/
+TheHackerNews,https://feeds.feedburner.com/TheHackersNews
+Malwarebytes,https://www.malwarebytes.com/blog/feed/index.xml
+BlackLantern,https://blog.blacklanternsecurity.com/feed
+Netscaler,https://www.netscaler.com/blog/feed/
+Google-TAG,https://blog.google/threat-analysis-group/rss/
+Google-ThreatIntel,https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/
+KrebsonSecurity,https://krebsonsecurity.com/feed/
+GrahamCluley,https://grahamcluley.com/feed/
+SchneierOnSecurity,https://www.schneier.com/feed/atom/
+CybleBlog,https://cyble.com/feed/
+MalwareNews,https://malware.news/latest.rss
+Packet Storm,https://rss.packetstormsecurity.com/
+Phylum,https://blog.phylum.io/rss/
+Rapid7 Blog,https://blog.rapid7.com/rss/
+RedHat Security,https://www.redhat.com/en/rss/blog/channel/security
+Sonatype Blog,https://www.sonatype.com/blog/rss.xml
+Sucuri Blog,https://blog.sucuri.net/feed
+Synack,https://www.synack.com/feed/
+Tenable Research ,https://www.tenable.com/security/research/feed
+Zero Day Initiative - Blog ,https://www.zerodayinitiative.com/blog?format=rss
+VentureBeat ,https://venturebeat.com/category/security/feed/
+Scott Helme,https://scotthelme.co.uk/rss/
+SC Magazine,https://www.scmagazine.com/feed/topic/threat-management
+SANS,https://www.sans.org/blog/feed.xml
+Oracle Linux,https://linuxsecurity.com/advisories/oracle?format=feed&amp;type=rss
+Debian Linux,https://linuxsecurity.com/advisories/debian?format=feed&amp;type=rss
+Ubuntu Linux,https://linuxsecurity.com/advisories/ubuntu?format=feed&amp;type=rss
+RedHat Linux,https://linuxsecurity.com/advisories/red-hat?format=feed&amp;type=rss
+AWS Security,https://aws.amazon.com/security/security-bulletins/rss/feed/
+HealthITSecurity,https://healthitsecurity.com/feed
+HackRead,https://hackread.com/feed/
+GovInfoSecurity.com,https://www.govinfosecurity.com/rss-feeds
+F5 Labs,https://www.f5.com/labs/rss-feeds/all.xml
+ExploitDB,https://www.exploit-db.com/rss.xml
+Embrace The Red ,https://embracethered.com/blog/index.xml
+Reliaquest,https://www.reliaquest.com/blog/feed/
+Darknetlive,https://darknetlive.com/index.xml
+Daniel Haxx,https://daniel.haxx.se/blog/feed/
+Cybersecuritydive,https://www.cybersecuritydive.com/feeds/news/
+Tenable cyber,https://www.tenable.com/blog/cyber-exposure-alerts/feed
+Avast Threat Lab,https://decoded.avast.io/feed/
+Almost Secure,https://palant.info/rss.xml
