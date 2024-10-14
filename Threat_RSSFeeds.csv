@@ -5,7 +5,6 @@ MSRC,https://msrc.microsoft.com/blog/feed,API
 Qualys,https://blog.qualys.com/feed,API
 Fortinet,https://feeds.fortinet.com/fortinet/blog/threat-research,API
 Sophos,https://news.sophos.com/feed/,API
-Cybersecuritynews,https://cybersecuritynews.com/feed/,API
 Arstechnica,http://feeds.arstechnica.com/arstechnica/index,API
 Buttondown,https://buttondown.email/CybersecNewsWeekly/rss,API
 Cisa Gov,https://www.cisa.gov/cybersecurity-advisories/all.xml,API
@@ -33,7 +32,6 @@ GrahamCluley,https://grahamcluley.com/feed/,API
 SchneierOnSecurity,https://www.schneier.com/feed/atom/,API
 CybleBlog,https://cyble.com/feed/,API
 MalwareNews,https://malware.news/latest.rss,API
-Packet Storm,https://rss.packetstormsecurity.com/,API
 Phylum,https://blog.phylum.io/rss/,API
 Rapid7 Blog,https://blog.rapid7.com/rss/,API
 RedHat Security,https://www.redhat.com/en/rss/blog/channel/security,API
@@ -58,7 +56,6 @@ F5 Labs,https://www.f5.com/labs/rss-feeds/all.xml,API
 ExploitDB,https://www.exploit-db.com/rss.xml,API
 Embrace The Red ,https://embracethered.com/blog/index.xml,API
 Reliaquest,https://www.reliaquest.com/blog/feed/,API
-Darknetlive,https://darknetlive.com/index.xml,API
 Daniel Haxx,https://daniel.haxx.se/blog/feed/,API
 Cybersecuritydive,https://www.cybersecuritydive.com/feeds/news/,API
 Tenable cyber,https://www.tenable.com/blog/cyber-exposure-alerts/feed,API
